@@ -3,5 +3,4 @@ project(SlashConverter C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(SlashConverter
-    main.c)
+add_executable(SlashConverter main.c ico.o)
