@@ -10,7 +10,7 @@
 
 ## 如何使用
 1. **下载程序**：
-   - 从 [GitHub 页面](https://github.com/your-repo-path) 下载已编译好的可执行文件 `SlashConverter.exe`。
+   - 从 [GitHub 页面](https://github.com/MakuraSho/SlashConverter/releases) 下载已编译好的可执行文件 `SlashConverter.exe`。
 
 2. **运行程序**：
    - 下载并解压文件。
