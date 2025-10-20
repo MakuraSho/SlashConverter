@@ -1,0 +1,10 @@
+[workspace]
+channels = ["conda-forge"]
+name = "SlashConverter"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+pyperclip = ">=1.11.0,<2"
