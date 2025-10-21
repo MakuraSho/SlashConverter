@@ -5,6 +5,13 @@ platforms = ["win-64"]
 version = "0.1.0"
 
 [tasks]
+build = 'pixi run pyinstaller --onefile --windowed --icon=makura.ico --add-data "makura.ico;." --name=SlashConverter main.py'
+
 
 [dependencies]
 pyperclip = ">=1.11.0,<2"
+pystray = ">=0.19.5,<0.20"
+pillow = ">=11.3.0,<12"
+pyinstaller = ">=6.16.0,<7"
+
+
